@@ -11,6 +11,7 @@
     --primary-630: hsl(0 calc(var(--saturation-factor, 1) * 0%) 6.67% / 1);
     --primary-660: hsl(0 calc(var(--saturation-factor, 1) * 0%) 4.71% / 1);
     --primary-700: hsl(0 calc(var(--saturation-factor, 1) * 0%) 4.71% / 1);
+    --primary-730: hsl(0 calc(var(--saturation-factor, 1) * 0%) 14% / 1);
     --primary-800: hsl(0 calc(var(--saturation-factor, 1) * 0%) 5.49% / 1);
 
     --primary-500-hsl: 0 calc(var(--saturation-factor, 1) * 0%) 10.48%;
